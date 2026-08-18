@@ -1,1 +1,1 @@
-print("hello pleximus")
+print("hello world")
